@@ -16,7 +16,7 @@ export default function Home() {
         <p className="text-[#D4AF37] tracking-[0.6em] mt-2 text-sm">ABIDJAN</p>
         <h2 className="text-3xl md:text-5xl mt-12 max-w-3xl mx-auto font-serif leading-tight">Le mariage halal, respectueux et sincère.</h2>
         <p className="mt-6 text-white/60 max-w-xl mx-auto">Pas de swipes. Vérification CNI. Validation du wali. Pour les musulmans d'Abidjan et de la diaspora.</p>
-        <a href="#cta" className="inline-block mt-10 bg-[#D4AF37] text-black px-10 py-4 rounded-full font-bold shadow-xl">Commencer - 5000F</a>
+        <a href="/inscription" className="inline-block mt-10 bg-[#D4AF37] text-black px-10 py-4 rounded-full font-bold shadow-xl">Commencer - 5000F</a>
         <p className="mt-4 text-xs text-white/40">Paiement Wave / Orange Money - 2 min</p>
       </section>
       <section className="py-8 grid grid-cols-3 gap-6 text-center max-w-4xl mx-auto px-6 -mt-10 bg-white rounded- shadow-xl border">
